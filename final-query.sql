@@ -1,0 +1,3 @@
+-- Paste ONLY your final SQL query here (Question 2 for regNo ending with even digits).
+-- No quotes needed. Example placeholder:
+-- SELECT department, COUNT(*) AS totalEmployees FROM employees GROUP BY department HAVING COUNT(*) > 5;
